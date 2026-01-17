@@ -2,12 +2,16 @@
 
 📍 Buenos Aires, Argentina |👨‍💻📉 Analisis de datos aplicado a negocios | SQL | Power BI | Python | n8n 
 
+## About me
+Data Analyst focused on business-oriented analytics 📈, data visualization, and process automation to support data-driven decision making.
+
 ## Sobre mí
-Analista de datos 📊, con foco en aplicaciones en el área de negocios 📈. Me interesa integrar herramientas como Power BI, Python, SQL, NLP, Deep Learning y Machine Learning para generar visualizaciones claras, comprender tendencias y asesorar en el desarrollo de negocios a emprendedores y empresas.
+Analista de datos con foco en aplicaciones de negocio 📊. Experiencia en Power BI, SQL Server y Python, desarrollando dashboards y automatizaciones que reducen tiempos de reporting y mejoran KPIs operativos.
 
 Licenciado en Administración de Empresas con +3 años optimizando procesos en Brandteam. Implementé +15 dashboards en Power BI que reducen tiempo de reporting 60% (de 8h a 3h semanales).
 
 Hablante de datos: traduzco requisitos complejos del negocio en soluciones analíticas que generan decisiones basadas en KPIs reales.
+
 Desarrollé automatizaciones utilizando SQL Server para el analisis y reclutamiento de información y Python, para la ejecución de procesos (envíos de mails, generación de archivos .xlsx .pdf).
 
 🧠 Apasionado por desarrollarme, conectar datos con impacto real, y traducir conocimientos científicos en soluciones prácticas.
