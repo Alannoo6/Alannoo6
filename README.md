@@ -20,7 +20,7 @@ Desarrollé automatizaciones utilizando SQL Server para el analisis y reclutamie
 
 📬 ¡Estoy abierto a colaborar!
 
-## Herramientas
+## Herramientas 🛠️
 - SQL Server
 - Power BI
 - Python (pandas, matplotlib)
@@ -28,10 +28,14 @@ Desarrollé automatizaciones utilizando SQL Server para el analisis y reclutamie
 
 
 
-## Resumen de Proyectos
-🔹 En construcción — próximamente notebooks y casos reales.
+## Resumen de Proyectos 🔹
 
-## Contacto
+(EN)
+| Project | Tools | Description |
+|--------|-------|-------------|
+| [📈 Tablero de Gestión Comercial Brandteam (Buenos Aires - Argentina, 2025) ](https://github.com/lourdeslandoni/encuesta-nutri-fao-2013) | SQL Server, DAX, Power BI | This interactive Power BI dashboard presents a comprehensive analysis of commercial performance for Brandteam’s Sports Brands business unit, covering sales activity across clients, vendors, brands, product families, and geographic regions during the 2021–2025 period. The dashboard enables dynamic exploration through filters by date, salesperson, client, brand, and product family, providing real-time insights into: Top clients and revenue concentration, Sales ranking by vendor and performance contribution, Brand and product family mix analysis, Geographic distribution of sales Key KPIs include quantities sold, net revenue, percentage contribution, and performance rankings, allowing management to quickly identify growth drivers, high-value clients, and optimization opportunities across the commercial network. This project was designed to support data-driven decision making, improve commercial strategy, and enhance visibility into multi-brand sales operations within the sports retail segment. |
+
+## Contacto 📞
 - 📧 [Correo electrónico](mailto:lannoowa@gmail.com)  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/agustin-lannoo/)
