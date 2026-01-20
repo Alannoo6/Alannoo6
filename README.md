@@ -28,7 +28,7 @@ Desarrollé automatizaciones utilizando SQL Server para el analisis y reclutamie
 
 
 
-## Proyectos
+## Resumen de Proyectos
 🔹 En construcción — próximamente notebooks y casos reales.
 
 ## Contacto
