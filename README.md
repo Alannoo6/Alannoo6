@@ -1,4 +1,5 @@
-# Hi, I'm Agustín Lannoo
+# Hi, I'm Agustín Lannoo — Data Analyst & Business Intelligence Engineer
+
 
 Buenos Aires, Argentina  
 Data Analyst | Business Intelligence | SQL | Power BI | Python | n8n  
@@ -15,7 +16,7 @@ My background combines strong business knowledge with technical expertise in SQL
 
 I have developed automated processes using SQL Server for data extraction and transformation, and Python for task automation including report generation, email distribution and file processing.
 
-Currently building my career with a strong focus on data engineering, analytics automation and scalable BI solutions.
+Currently focused on building scalable data engineering pipelines, analytics automation workflows, and enterprise-grade BI solutions.
 
 ---
 
@@ -27,6 +28,7 @@ Currently building my career with a strong focus on data engineering, analytics 
 - Python (pandas, matplotlib, automation scripts)  
 - n8n (workflow automation)  
 - Git & GitHub (version control, documentation)  
+
 
 ---
 
