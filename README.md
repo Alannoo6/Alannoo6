@@ -1,57 +1,49 @@
-# Hola, soy Agustín | Hi, I'm Agustín👋
+# Hi, I'm Agustín Lannoo
 
-📍 Buenos Aires, Argentina |👨‍💻📉 Analisis de datos aplicado a negocios | SQL | Power BI | Python | n8n 
+Buenos Aires, Argentina  
+Data Analyst | Business Intelligence | SQL | Power BI | Python | n8n  
 
-## About me
-Data Analyst focused on business-oriented analytics 📈, data visualization, and process automation to support data-driven decision making.
+---
 
-## Sobre mí
-Analista de datos con foco en aplicaciones de negocio 📊. Experiencia en Power BI, SQL Server y Python, desarrollando dashboards y automatizaciones que reducen tiempos de reporting y mejoran KPIs operativos.
+## About Me
 
-Licenciado en Administración de Empresas con +3 años optimizando procesos en Brandteam. Implementé +15 dashboards en Power BI que reducen tiempo de reporting 60% (de 8h a 3h semanales).
+Data Analyst specialized in business-oriented analytics, data visualization, and process automation to support data-driven decision making.
 
-Hablante de datos: traduzco requisitos complejos del negocio en soluciones analíticas que generan decisiones basadas en KPIs reales.
+I hold a degree in Business Administration and have over three years of experience optimizing commercial and operational processes at Brandteam Group. I have designed and implemented more than 15 Power BI dashboards that reduced reporting time by 60% (from 8 hours to 3 hours per week).
 
-Desarrollé automatizaciones utilizando SQL Server para el analisis y reclutamiento de información y Python, para la ejecución de procesos (envíos de mails, generación de archivos .xlsx .pdf).
+My background combines strong business knowledge with technical expertise in SQL Server, Power BI, DAX and Python. I focus on translating complex business requirements into analytical solutions that generate actionable insights and measurable impact.
 
-🧠 Apasionado por desarrollarme, conectar datos con impacto real, y traducir conocimientos científicos en soluciones prácticas.
+I have developed automated processes using SQL Server for data extraction and transformation, and Python for task automation including report generation, email distribution and file processing.
 
-🚀 En camino hacia una carrera con foco en datos, innovación e inteligencia artificial.
+Currently building my career with a strong focus on data engineering, analytics automation and scalable BI solutions.
 
-📬 ¡Estoy abierto a colaborar!
+---
 
-## Herramientas 🛠️
-- SQL Server
-- Power BI
-- Python (pandas, matplotlib)
-- n8n
+## Tools & Technologies
 
+- SQL Server (T-SQL, stored procedures, data modeling)  
+- Power BI (data modeling, dashboards, publishing)  
+- DAX (measures, KPIs, business logic)  
+- Python (pandas, matplotlib, automation scripts)  
+- n8n (workflow automation)  
+- Git & GitHub (version control, documentation)  
 
+---
 
-## Resumen de Proyectos 🔹
+## Projects
 
-(EN)
 | Project | Tools | Description |
 |--------|-------|-------------|
-| [📈 Tablero de Gestión Comercial Brandteam (Buenos Aires - Argentina, 2025)](https://github.com/Alannoo6/Tablero-de-Gestion-Comercial-Brandteam-Buenos-Aires-Argentina-2025) | SQL Server, DAX, Power BI | This interactive Power BI dashboard presents a comprehensive analysis of commercial performance for Brandteam’s Sports Brands business unit, covering sales activity across clients, vendors, brands, product families, and geographic regions during the 2021–2025 period. The dashboard enables dynamic exploration through filters by date, salesperson, client, brand, and product family, providing real-time insights into: Top clients and revenue concentration, Sales ranking by vendor and performance contribution, Brand and product family mix analysis, Geographic distribution of sales Key KPIs include quantities sold, net revenue, percentage contribution, and performance rankings, allowing management to quickly identify growth drivers, high-value clients, and optimization opportunities across the commercial network. This project was designed to support data-driven decision making, improve commercial strategy, and enhance visibility into multi-brand sales operations within the sports retail segment. |
+| [Sales Management Dashboard – Commercial Performance Analysis](https://github.com/Alannoo6/sales-management-dashboard) | SQL Server, DAX, Power BI | Interactive Power BI dashboard for comprehensive commercial performance analysis based on real sales data (2021–2025). Provides client and salesperson rankings, brand and product family mix analysis, geographic distribution, and KPI monitoring to support data-driven commercial decision making and sales strategy optimization. |
+| [Price Recalculation Pipeline – Pending Orders](https://github.com/Alannoo6/price-recalculation-pipeline) | SQL Server, T-SQL, ETL, Batch Processing | Batch SQL data engineering pipeline designed to synchronize pending sales order prices with active price lists and recalculate dependent financial fields (taxes, discounts, subtotals and order totals). Ensures pricing consistency, financial integrity and automated correction of transactional ERP data. |
 
-## Contacto 📞
-- 📧 [Correo electrónico](mailto:lannoowa@gmail.com)  
+---
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/agustin-lannoo/)
+## Contact
 
+Email: [lannoowa@gmail.com](mailto:lannoowa@gmail.com)  
+LinkedIn: [https://www.linkedin.com/in/agustin-lannoo/](https://www.linkedin.com/in/agustin-lannoo/)  
 
-<!--
-**Alannoo6/Alannoo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Open to collaboration and opportunities in data analytics, business intelligence and data engineering.
