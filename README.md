@@ -1,44 +1,96 @@
-# Hi, I'm Agustín Lannoo — Data Analyst & Business Intelligence Engineer
-Buenos Aires, Argentina  
-Data Analyst | Business Intelligence | SQL | Power BI | Python | n8n  
+# Hi, I'm Agustín Lannoo 👋 — Data Analyst & Business Intelligence Engineer
+📍 Buenos Aires, Argentina  
+💡 Turning raw data into decisions that actually matter
 
 ---
 
-## About Me
-Data Analyst specialized in business-oriented analytics, data visualization, and process automation to support data-driven decision making.
+## 🙋 About Me
 
-I hold a degree in Business Administration and have over three years of experience optimizing commercial and operational processes at Brandteam Group. I have designed and implemented more than 15 Power BI dashboards that reduced reporting time by 60% (from 8 hours to 3 hours per week).
+I'm a Data Analyst with a background in Business Administration and over 3 years of hands-on experience at Brandteam Group, where I work at the intersection of finance, operations, and technology.
 
-My background combines strong business knowledge with technical expertise in SQL Server, Power BI, DAX and Python. I focus on translating complex business requirements into analytical solutions that generate actionable insights and measurable impact.
+I'm passionate about the full data journey — optimizing processes to cut reporting time, automating repetitive tasks so teams can focus on what matters, and finding the patterns hidden in the noise that lead to better decisions.
 
-I have developed automated processes using SQL Server for data extraction and transformation, and Python for task automation including report generation, email distribution and file processing.
+I've designed and implemented 15+ Power BI dashboards that reduced reporting time by 60% (from 8 hours to 3 hours per week), built SQL-based data pipelines for transactional systems, and developed Python automation scripts for report generation and file processing.
 
-Currently focused on building scalable data engineering pipelines, analytics automation workflows, and enterprise-grade BI solutions.
+My approach is simple: understand the business problem first, then build the most elegant analytical solution to solve it.
 
----
-
-## Tools & Technologies
-- SQL Server (T-SQL, stored procedures, data modeling)  
-- Power BI (data modeling, dashboards, publishing)  
-- DAX (measures, KPIs, business logic)  
-- Python (pandas, matplotlib, automation scripts)  
-- n8n (workflow automation)  
-- Git & GitHub (version control, documentation)  
+> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
 ---
 
-## Projects
+## 🔧 Tools & Technologies
+
+**Data & Analytics**  
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Automation & DevOps**  
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Libraries**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+**Data Analyst & IT Analyst — Brandteam Group** · Buenos Aires · *June 2023 – Present*
+
+As part of the internal IT team, I bridge the gap between business needs and data analytics, delivering solutions that optimize processes and improve decision-making across multiple business units within the group.
+
+Key contributions:
+- Implementation and support of ERP and CRM systems, ensuring operational continuity and improvements in administrative and commercial processes
+- Development of Power BI dashboards and automated reports using SQL and Excel, enabling real-time visualization of financial, sales, and operational KPIs
+- Design of ETL processes and data modeling in a data warehouse, facilitating historical and predictive analysis
+- Coordination and training of end users on management tools, driving digital adoption across different areas
+- Leadership of the support ticket team using FreshDesk, improving incident resolution efficiency
+
+**Impact:** Reduced report generation times, improved visibility of commercial and operational results, and supported strategic decision-making across multiple business units.
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Business Administration**  
+Universidad de Ciencias Empresariales y Sociales (UCES) · Buenos Aires
+
+**Diploma in Agile Methodologies and Frameworks**  
+Universidad Tecnológica Nacional (UTN) · Buenos Aires
+
+---
+
+## 💼 Projects
+
 | Project | Tools | Description |
 |--------|-------|-------------|
 | [Sales Management Dashboard – Commercial Performance Analysis](https://github.com/Alannoo6/sales-management-dashboard) | SQL Server, DAX, Power BI | Interactive Power BI dashboard for comprehensive commercial performance analysis based on real sales data (2021–2025). Provides client and salesperson rankings, brand and product family mix analysis, geographic distribution, and KPI monitoring to support data-driven commercial decision making and sales strategy optimization. |
 | [Price Recalculation Pipeline – Pending Orders](https://github.com/Alannoo6/price-recalculation-pipeline) | SQL Server, T-SQL, ETL, Batch Processing | Batch SQL data engineering pipeline designed to synchronize pending sales order prices with active price lists and recalculate dependent financial fields (taxes, discounts, subtotals and order totals). Ensures pricing consistency, financial integrity and automated correction of transactional ERP data. |
-| [Business Performance Dashboard – Financial & Inventory Analysis](https://github.com/Alannoo6/business-performance-dashboard) | SQL Server, T-SQL, DAX, Power BI | Interactive Power BI dashboard for comprehensive business performance analysis covering billing, collections, customer debt aging, inventory control, projected stock, and valued stock. Centralizes transactional data from multiple business areas into a unified analytical model to support data-driven decision making for commercial, financial, and operations teams. |
+| [Business Performance Dashboard – Financial & Inventory Analysis](https://github.com/Alannoo6/business-performance-dashboard) | SQL Server, DAX, Power BI | Interactive Power BI dashboard for comprehensive business performance analysis covering billing, collections, customer debt aging, inventory control, projected stock, and valued stock. Centralizes transactional data from multiple business areas into a unified analytical model to support data-driven decision making for commercial, financial, and operations teams. |
 
 ---
 
-## Contact
+## 📚 Recommended Readings
+
+Books that have shaped the way I think about data and analytics:
+
+**Data & Analytics**
+- 📖 **Data Science from Scratch** — *Joel Grus* — A great hands-on introduction to data science fundamentals using Python. Perfect for understanding what's really happening under the hood.
+- 📖 **Learning Microsoft Power BI** — A practical guide that takes you from basics to building real-world dashboards. Highly recommended for anyone getting into BI.
+
+**On my radar**
+- 📖 **Designing Data-Intensive Applications** — *Martin Kleppmann* — The bible for understanding how data systems work at scale.
+- 📖 **The Alignment Problem** — *Brian Christian* — A fascinating and accessible look at the challenges of building AI systems that do what we actually want.
+
+---
+
+## 📫 Contact
 Email: [lannoowa@gmail.com](mailto:lannoowa@gmail.com)  
-LinkedIn: [https://www.linkedin.com/in/agustin-lannoo/](https://www.linkedin.com/in/agustin-lannoo/)  
+LinkedIn: [linkedin.com/in/agustin-lannoo](https://www.linkedin.com/in/agustin-lannoo/)  
 
 ---
 Open to collaboration and opportunities in data analytics, business intelligence and data engineering.
