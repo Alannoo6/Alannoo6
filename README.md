@@ -1,6 +1,10 @@
 # Hi, I'm Agustín Lannoo 👋 — Data Analyst & Business Intelligence Engineer
-📍 Buenos Aires, Argentina  
+📍 Buenos Aires, Argentina
 💡 Turning raw data into decisions that actually matter
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-lannoo/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lannoowa@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-PDF-darkgreen?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/Alannoo6/Alannoo6/blob/main/Lannoo_Agustin_Resume.pdf)
 
 ---
 
