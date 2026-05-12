@@ -35,12 +35,12 @@ My approach is simple: understand the business problem first, then build the mos
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Libraries**  
+**Libraries**
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
----
+---  
 
 ## 💼 Professional Experience
 
@@ -69,13 +69,22 @@ Universidad Tecnológica Nacional (UTN) · Buenos Aires
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
-| Project | Tools | Description |
-|--------|-------|-------------|
-| [Sales Management Dashboard – Commercial Performance Analysis](https://github.com/Alannoo6/sales-management-dashboard) | SQL Server, DAX, Power BI | Interactive Power BI dashboard for comprehensive commercial performance analysis based on real sales data (2021–2025). Provides client and salesperson rankings, brand and product family mix analysis, geographic distribution, and KPI monitoring to support data-driven commercial decision making and sales strategy optimization. |
-| [Price Recalculation Pipeline – Pending Orders](https://github.com/Alannoo6/price-recalculation-pipeline) | SQL Server, T-SQL, ETL, Batch Processing | Batch SQL data engineering pipeline designed to synchronize pending sales order prices with active price lists and recalculate dependent financial fields (taxes, discounts, subtotals and order totals). Ensures pricing consistency, financial integrity and automated correction of transactional ERP data. |
-| [Business Performance Dashboard – Financial & Inventory Analysis](https://github.com/Alannoo6/business-performance-dashboard) | SQL Server, DAX, Power BI | Interactive Power BI dashboard for comprehensive business performance analysis covering billing, collections, customer debt aging, inventory control, projected stock, and valued stock. Centralizes transactional data from multiple business areas into a unified analytical model to support data-driven decision making for commercial, financial, and operations teams. |
+### 🛒 [Sales Management Dashboard](https://github.com/Alannoo6/sales-management-dashboard)
+*Power BI dashboard for commercial performance analysis (2021–2025)*
+`SQL Server` `DAX` `Power BI`
+> Interactive analysis of sales by client, salesperson, brand and region. Built on real anonymized sales data spanning 5 years.
+
+### 💰 [Business Performance Dashboard](https://github.com/Alannoo6/business-performance-dashboard)
+*Financial & inventory KPIs in a single analytical model*
+`SQL Server` `Power Query` `DAX` `Power BI`
+> Unified view of billing, collections, customer debt aging, stock control and inventory valuation. Built on a star schema with 8 fact tables.
+
+### ⚙️ [Price Recalculation Pipeline](https://github.com/Alannoo6/price-recalculation-pipeline)
+*Transaction-safe SQL pipeline for ERP price synchronization*
+`T-SQL` `SQL Server` `ETL` `Batch Processing`
+> Automated stored procedure that recalculates pricing, taxes and discounts for pending sales orders. Prevents billing errors and ensures financial consistency.
 
 ---
 
