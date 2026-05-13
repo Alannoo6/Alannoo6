@@ -24,21 +24,26 @@ My approach is simple: understand the business problem first, then build the mos
 
 ## 🔧 Tools & Technologies
 
-**Data & Analytics**  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**Data & Analytics**
 
-**Automation & DevOps**  
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Automation & DevOps**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-**Libraries**     
+**Libraries**
+
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ---  
 
@@ -71,20 +76,39 @@ Universidad Tecnológica Nacional (UTN) · Buenos Aires
 
 ## 💼 Featured Projects
 
-### 🛒 [Sales Management Dashboard](https://github.com/Alannoo6/sales-management-dashboard)
-*Power BI dashboard for commercial performance analysis (2021–2025)*
-`SQL Server` `DAX` `Power BI`
-> Interactive analysis of sales by client, salesperson, brand and region. Built on real anonymized sales data spanning 5 years.
+### 🛒 Olist E-Commerce Analysis · 🔴 Live Demo
+`Python` `Pandas` `NumPy` `Plotly` `Streamlit` `Jupyter`
 
-### 💰 [Business Performance Dashboard](https://github.com/Alannoo6/business-performance-dashboard)
-*Financial & inventory KPIs in a single analytical model*
+End-to-end EDA and interactive dashboard for the Brazilian Olist marketplace (~100K orders, 2016–2018). Six business insights on growth, customer retention (1.03 orders per customer), geographic concentration (62% from top 3 states), delivery impact on CSAT (2.1× rating gap), and seller Pareto (544 of 3,095 sellers generate 80% of GMV).
+
+🔗 **[Live Dashboard](https://lannoo-olist-dashboard.streamlit.app/)** · 💻 **[Repository](https://github.com/Alannoo6/olist-ecommerce-analysis)** · 📓 **[Notebook](https://github.com/Alannoo6/olist-ecommerce-analysis/blob/main/notebooks/01_olist_eda.ipynb)**
+
+---
+
+### 💰 Business Performance Dashboard
 `SQL Server` `Power Query` `DAX` `Power BI`
-> Unified view of billing, collections, customer debt aging, stock control and inventory valuation. Built on a star schema with 8 fact tables.
 
-### ⚙️ [Price Recalculation Pipeline](https://github.com/Alannoo6/price-recalculation-pipeline)
-*Transaction-safe SQL pipeline for ERP price synchronization*
+Financial and inventory KPIs in a single analytical model: billing, collections, customer debt aging, stock control and inventory valuation. Built on a star schema with 8 fact tables.
+
+💻 **[Repository](https://github.com/Alannoo6/business-performance-dashboard)**
+
+---
+
+### 📊 Sales Management Dashboard
+`SQL Server` `DAX` `Power BI`
+
+Power BI dashboard for commercial performance analysis (2021–2025). Interactive analysis of sales by client, salesperson, brand and region, built on real anonymized sales data spanning 5 years.
+
+💻 **[Repository](https://github.com/Alannoo6/sales-management-dashboard)**
+
+---
+
+### ⚙️ Price Recalculation Pipeline
 `T-SQL` `SQL Server` `ETL` `Batch Processing`
-> Automated stored procedure that recalculates pricing, taxes and discounts for pending sales orders. Prevents billing errors and ensures financial consistency.
+
+Transaction-safe SQL pipeline for ERP price synchronization. Automated stored procedure that recalculates pricing, taxes and discounts for pending sales orders, preventing billing errors and ensuring financial consistency.
+
+💻 **[Repository](https://github.com/Alannoo6/price-recalculation-pipeline)**
 
 ---
 
