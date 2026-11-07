@@ -18,8 +18,6 @@ I've designed and implemented 15+ Power BI dashboards that reduced reporting tim
 
 My approach is simple: understand the business problem first, then build the most elegant analytical solution to solve it.
 
-> *"Without data, you're just another person with an opinion."* — W. Edwards Deming
-
 ---
 
 ## 🔧 Tools & Technologies
@@ -29,6 +27,8 @@ My approach is simple: understand the business problem first, then build the mos
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power_Query-A0522D?style=for-the-badge&logo=powerbi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 **Automation & DevOps**
@@ -109,20 +109,6 @@ Power BI dashboard for commercial performance analysis (2021–2025). Interactiv
 Transaction-safe SQL pipeline for ERP price synchronization. Automated stored procedure that recalculates pricing, taxes and discounts for pending sales orders, preventing billing errors and ensuring financial consistency.
 
 💻 **[Repository](https://github.com/Alannoo6/price-recalculation-pipeline)**
-
----
-
-## 📚 Recommended Readings
-
-Books that have shaped the way I think about data and analytics:
-
-**Data & Analytics**
-- 📖 **Data Science from Scratch** — *Joel Grus* — A great hands-on introduction to data science fundamentals using Python. Perfect for understanding what's really happening under the hood.
-- 📖 **Learning Microsoft Power BI** — A practical guide that takes you from basics to building real-world dashboards. Highly recommended for anyone getting into BI.
-
-**On my radar**
-- 📖 **Designing Data-Intensive Applications** — *Martin Kleppmann* — The bible for understanding how data systems work at scale.
-- 📖 **The Alignment Problem** — *Brian Christian* — A fascinating and accessible look at the challenges of building AI systems that do what we actually want.
 
 ---
 
